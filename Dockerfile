@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-
+LABEL "KATYA"="katya"
 LABEL "MAINTAINER"="katerynashchur@gmail.com"
 
 USER root
